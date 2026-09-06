@@ -1,0 +1,6 @@
+STUDENT REPORT
+----------------
+Name: rafi
+Course: python
+Marks: 56
+Result: PASS
